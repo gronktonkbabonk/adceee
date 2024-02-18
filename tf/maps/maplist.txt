@@ -1,6 +1,5 @@
 cp_5gorge_madcap
 cp_dustbowl_madcap
-cp_fastlane_madcap
 cp_granary_madcap
 cp_gullywash_madcap
 cp_mercenarypark_madcap
@@ -22,4 +21,4 @@ pl_frontier_madcap
 pl_goldrush_madcap
 pl_swiftwater_madcap
 pl_thundermountain_madcap
-pl_upward_madcap.bsp
+s
