@@ -21,4 +21,3 @@ pl_frontier_madcap
 pl_goldrush_madcap
 pl_swiftwater_madcap
 pl_thundermountain_madcap
-s
